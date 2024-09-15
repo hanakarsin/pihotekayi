@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zuwedureku.vercel.app/sitemap.xml
